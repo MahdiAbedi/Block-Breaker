@@ -1,0 +1,109 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 630 (ID=0x5912)
+    Vendor:   Intel
+    VRAM:     2143 MB
+    Driver:   22.19.165.512
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\projects\IUnity\Block-Breaker\Block-Breaker-Abedi\blockBreaker_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\projects\IUnity\Block-Breaker\Block-Breaker-Abedi\blockBreaker_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\projects\IUnity\Block-Breaker\Block-Breaker-Abedi\blockBreaker_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\projects\IUnity\Block-Breaker\Block-Breaker-Abedi\blockBreaker_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\projects\IUnity\Block-Breaker\Block-Breaker-Abedi\blockBreaker_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\projects\IUnity\Block-Breaker\Block-Breaker-Abedi\blockBreaker_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\projects\IUnity\Block-Breaker\Block-Breaker-Abedi\blockBreaker_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\projects\IUnity\Block-Breaker\Block-Breaker-Abedi\blockBreaker_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\projects\IUnity\Block-Breaker\Block-Breaker-Abedi\blockBreaker_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\projects\IUnity\Block-Breaker\Block-Breaker-Abedi\blockBreaker_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.020 seconds
+Platform assembly: D:\projects\IUnity\Block-Breaker\Block-Breaker-Abedi\blockBreaker_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\projects\IUnity\Block-Breaker\Block-Breaker-Abedi\blockBreaker_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Music Player') is missing!
+ 
+(Filename:  Line: 1754)
+
+UnloadTime: 2.641917 ms
+The referenced script on this Behaviour (Game Object 'LevelManager') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 78.038956 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 407.
+Total: 0.124586 ms (FindLiveObjects: 0.013165 ms CreateObjectMapping: 0.009996 ms MarkObjects: 0.088502 ms  DeleteObjects: 0.005363 ms)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'LevelManager') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.684372 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 258.
+Total: 0.659260 ms (FindLiveObjects: 0.047055 ms CreateObjectMapping: 0.029988 ms MarkObjects: 0.348891 ms  DeleteObjects: 0.231862 ms)
+
+The referenced script on this Behaviour (Game Object 'Music Player') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.191390 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 271.
+Total: 0.272578 ms (FindLiveObjects: 0.035108 ms CreateObjectMapping: 0.011459 ms MarkObjects: 0.221866 ms  DeleteObjects: 0.003657 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 213c -> priority: 1 
+  Thread -> id: 2ee4 -> priority: 1 
